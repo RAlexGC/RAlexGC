@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramón Alejandro Gutiérrez Calleja</h1>
-<h3 align="center">PhD in Nanosciences, developer in progress.</h3>
+<h3 align="center">Biomedical Engineer, PhD in Nanosciences, developer in progress.</h3>
 
 - 🔭 I’m currently working on [LaunchX](https://github.com/RAlexGC/LaunchX)
 
