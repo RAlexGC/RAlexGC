@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramón Alejandro Gutiérrez Calleja</h1>
 <h3 align="center">Biomedical Engineer, PhD in Nanosciences, Developer</h3>
 
-- 🌱 Actively learning **JS, Python, NodeJS, HTML, CSS**
+- 🌱 Actively learning **JS, Python, NodeJS, ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RAlexGC](https://github.com/RAlexGC)
 
