@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RAlexGC](https://github.com/RAlexGC)
 
-- 📫 How to reach me **alexgtz.up@gmail.com**
+- 📫 How to reach me **ralexgc@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
